@@ -1,6 +1,7 @@
+import java.util.Scanner;
 /**
  *
- * @author 
+ * @author Liana Bazzarella
  */
 public class Main {
 
@@ -9,7 +10,10 @@ public class Main {
    * @param args the command line arguments
    */
   public static void main(String[] args) {
-    // TODO code application logic here
+    // create a Scanner for user input
+    Scanner input = new Scanner(System.in);
+
+    
     
   }
 }
